@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "I have an M.Sc. in Biotechnology and am skilled in R, Data Analysis, and Visualization.
 "
-  location         : "Earth"
+  location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "mohamed.youssef@ejust.edu.eg" 
