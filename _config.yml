@@ -22,9 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mohamed A. Youssef"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I have an M.Sc. in Biotechnology and am skilled in R, Data Analysis, and Visualization.
+"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
