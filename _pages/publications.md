@@ -4,7 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-# comparative
+
+Stay tuned for upcoming publications! 
+This space will soon showcase my latest articles. 
+In the meantime, feel free to explore the rest of my portfolio."
 
 <!--
 {% if site.author.googlescholar %}
