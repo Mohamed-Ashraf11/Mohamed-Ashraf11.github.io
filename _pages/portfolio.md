@@ -12,5 +12,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-### R Projects
+## R Projects
 
