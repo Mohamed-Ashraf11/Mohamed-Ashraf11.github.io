@@ -13,9 +13,11 @@ In the meantime, feel free to explore the rest of my portfolio.
 
 
 
-### Conferences
-ICPD23
-
+### Conference Papers
+* Effect of biofilm formation and consortium development on biodegradation of polycyclic aromatic hydrocarbons (PAHs).
+    * Conference: International Conference on Medical, Biological and Pharmaceutical Sciences (ICMBPS-23)
+    * Date: 11th March 2023
+    * Location: Athens, Greece
 
 <!--
 {% if site.author.googlescholar %}
