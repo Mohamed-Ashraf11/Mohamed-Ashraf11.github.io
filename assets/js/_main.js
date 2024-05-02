@@ -6,6 +6,7 @@ $(document).ready(function(){
   // Sticky footer
   var bumpIt = function() {
       $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
+      $("#sitemap").hide();
     },
     didResize = false;
 
