@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+ <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* M.Sc. in Biotechnology, E-JUST University, 2023
+* B.Sc. in Botany and Microbiology, Sohag University, 2017
 
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -31,22 +32,24 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+  -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Linux / Shell
+* R Programming
+  * Data Analysis
+  * Data Visualization
+  * Markdown
 
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -62,3 +65,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->
