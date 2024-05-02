@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Research Papers
 Stay tuned for upcoming publications! This space will soon showcase my latest articles, alongside my [Google Scholar Profile](https://scholar.google.com/citations?user=bsV-fAkAAAAJ&hl=en). 
 
 In the meantime, feel free to explore the rest of my portfolio.
@@ -12,6 +13,10 @@ In the meantime, feel free to explore the rest of my portfolio.
 
 
 
+
+
+
+--------------------------------------------------------------------------------------------------------
 
 ### Conference Papers
 * Effect of biofilm formation and consortium development on biodegradation of polycyclic aromatic hydrocarbons (PAHs).
