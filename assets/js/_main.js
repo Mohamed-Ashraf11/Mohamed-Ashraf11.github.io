@@ -7,7 +7,7 @@ $(document).ready(function(){
   var bumpIt = function() {
       $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
     },
-    didResize = false;
+    didResize = true;
 
   bumpIt();
 
