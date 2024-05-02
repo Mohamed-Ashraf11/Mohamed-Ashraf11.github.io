@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Mohamed Ashraf, an Assistant Lecturer at Microbiology Department, Faculty of Science, Sohag University. 
+Hi! 👋 
+
+I'm Mohamed Ashraf, an Assistant Lecturer at Microbiology Department, Faculty of Science, Sohag University. 
+
 Currently I'm a Ph.D. Scholar at Egypt-Japan University of Science and Technology, Alexandria, Egypt.
 
 <!--
