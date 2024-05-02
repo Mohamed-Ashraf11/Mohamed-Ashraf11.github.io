@@ -4,6 +4,7 @@ title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
 ---
+<!--
 
 {% include base_path %}
 
@@ -29,9 +30,11 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% capture written_label %}{{ label }}{% endcapture %}
   {% endif %}
 {% endunless %}
+
 {% for post in collection.docs %}
   {% unless collection.output == false or collection.label == "posts" %}
   {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
 {% endfor %}
+-->
