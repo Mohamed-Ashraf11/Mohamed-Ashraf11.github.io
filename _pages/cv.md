@@ -41,6 +41,7 @@ Skills
   * Data Analysis
   * Data Visualization
   * Markdown
+* Python 
 
 <!-- 
 Publications
