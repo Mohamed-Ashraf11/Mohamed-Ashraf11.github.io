@@ -16,6 +16,7 @@ Currently I'm a Ph.D. Scholar at Egypt-Japan University of Science and Technolog
 
 ## Research Interests
   - Microbiology
+  - Microbial Genomics
   - Molecular Biology
   - Bioinformatics
 
