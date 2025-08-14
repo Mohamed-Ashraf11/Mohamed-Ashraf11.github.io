@@ -26,7 +26,7 @@ Microbiologist with a keen interest in microbial genomics and antimicrobial resi
 ## Education
 •	Ph.D. (in progress) – Biotechnology       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       Expected October 2026
 <br>  &nbsp;&nbsp; - Egypt – Japan University of Science and Technology
-<br>-	Proposed Thesis Title: “Exploring the Antimicrobial and Antivirulence Effect of Plant Extracts
+-	Proposed Thesis Title: “Exploring the Antimicrobial and Antivirulence Effect of Plant Extracts
 and its Derived Compounds on Antibiotic Resistant Bacteria”
 
 •	M.Sc. – Biotechnology                                                                                                                                June 2023
