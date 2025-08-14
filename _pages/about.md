@@ -13,12 +13,28 @@ I'm Mohamed Ashraf, an Assistant Lecturer at Microbiology Department, Faculty of
 
 Currently I'm a Ph.D. Scholar at Egypt-Japan University of Science and Technology, Alexandria, Egypt.
 
+## Highlights
+Microbiologist with a keen interest in microbial genomics and antimicrobial resistance, currently developing skills in Whole Genome Sequencing data analysis, and microbial comparative genomics. Passionate about using R for data analysis and visualization with a strong background in Biostatistics.
 
 ## Research Interests
   - Microbiology
   - Microbial Genomics
   - Molecular Biology
   - Bioinformatics
+
+## Education
+•	Ph.D. (in progress) – Biotechnology                                                                                   Expected October 2026
+Egypt – Japan University of Science and Technology
+-	Proposed Thesis Title: “Exploring the Antimicrobial and Antivirulence Effect of Plant Extracts
+and its Derived Compounds on Antibiotic Resistant Bacteria”
+
+•	M.Sc. – Biotechnology                                                                                                                                June 2023
+Egypt – Japan University of Science and Technology
+-	Thesis Title: “Enhanced Aromatic Polycyclic Hydrocarbons Biodegradation Process by Microbial Biofilm Consortium Development”
+
+•	B.Sc. – Biological Sciences		                         				                         July 2017
+Faculty of Science, Sohag University
+
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
