@@ -18,8 +18,7 @@ Education
  * Ph.D in Version Control Theory, GitHub University, 2018 (expected) 
 * M.Sc. in Biotechnology, E-JUST University, 2023
 * B.Sc. in Botany and Microbiology, Sohag University, 2017
--->
-<!--
+
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
