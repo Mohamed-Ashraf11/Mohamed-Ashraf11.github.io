@@ -11,6 +11,7 @@ redirect_from:
 
 
 You can Download my Full CV From [Here](files/cv.pdf)
+
  <!--
 Education
 ======
