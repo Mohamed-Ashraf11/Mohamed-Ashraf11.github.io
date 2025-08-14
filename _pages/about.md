@@ -22,7 +22,7 @@ Microbiologist with a keen interest in microbial genomics and antimicrobial resi
   - Molecular Biology
   - Bioinformatics
 
-<--!
+<!--
 ## Education
 •	Ph.D. (in progress) – Biotechnology                                                                                   Expected October 2026
 
