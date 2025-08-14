@@ -9,12 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+
+You can Download my Full CV From [Here](files/cv.pdf)
+ <!--
 Education
 ======
- <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+ * Ph.D in Version Control Theory, GitHub University, 2018 (expected) 
 * M.Sc. in Biotechnology, E-JUST University, 2023
 * B.Sc. in Botany and Microbiology, Sohag University, 2017
-
+-->
 <!--
 Work experience
 ======
@@ -33,7 +36,8 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   -->
-  
+
+<!--
 Skills
 ======
 * Linux / Shell
@@ -42,6 +46,8 @@ Skills
   * Data Visualization
   * Markdown
 * Python 
+
+-->
 
 <!-- 
 Publications
