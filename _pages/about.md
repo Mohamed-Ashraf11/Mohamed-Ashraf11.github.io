@@ -24,17 +24,13 @@ Microbiologist with a keen interest in microbial genomics and antimicrobial resi
 
 <--
 ## Education
-•	Ph.D. (in progress) – Biotechnology       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       Expected October 2026
-<br>  &nbsp;&nbsp; - Egypt – Japan University of Science and Technology
--	Proposed Thesis Title: “Exploring the Antimicrobial and Antivirulence Effect of Plant Extracts
-and its Derived Compounds on Antibiotic Resistant Bacteria”
+ •	Ph.D. (in progress) – Biotechnology       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       Expected October 2026 <br>  &nbsp;&nbsp; - Egypt – Japan University of Science and Technology <br> &nbsp;&nbsp; -	Proposed Thesis Title: “Exploring the Antimicrobial and Antivirulence Effect of Plant Extracts and its Derived Compounds on Antibiotic Resistant Bacteria”
 
-•	M.Sc. – Biotechnology                                                                                                                                June 2023
-<br> - Egypt – Japan University of Science and Technology
--	Thesis Title: “Enhanced Aromatic Polycyclic Hydrocarbons Biodegradation Process by Microbial Biofilm Consortium Development”
+ •	M.Sc. – Biotechnology    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       June 2023
+<br>  &nbsp;&nbsp; - Egypt – Japan University of Science and Technology <br>  &nbsp;&nbsp; -	Thesis Title: “Enhanced Aromatic Polycyclic Hydrocarbons Biodegradation Process by Microbial Biofilm Consortium Development”
 
-•	B.Sc. – Biological Sciences  July 2017
-<br> - Faculty of Science, Sohag University
+•	B.Sc. – Biological Sciences&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  July 2017
+<br> &nbsp;&nbsp; - Faculty of Science, Sohag University
 
 -->
 
