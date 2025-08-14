@@ -35,7 +35,7 @@ and its Derived Compounds on Antibiotic Resistant Bacteria”
 Egypt – Japan University of Science and Technology
 -	Thesis Title: “Enhanced Aromatic Polycyclic Hydrocarbons Biodegradation Process by Microbial Biofilm Consortium Development”
 
-•	B.Sc. – Biological Sciences		                         				                         July 2017
+•	B.Sc. – Biological Sciences <br> July 2017
 
 Faculty of Science, Sohag University
 
