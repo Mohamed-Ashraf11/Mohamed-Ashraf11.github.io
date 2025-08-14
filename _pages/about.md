@@ -38,6 +38,7 @@ Egypt – Japan University of Science and Technology
 •	B.Sc. – Biological Sciences		                         				                         July 2017
 
 Faculty of Science, Sohag University
+
 -->
 
 <!--
