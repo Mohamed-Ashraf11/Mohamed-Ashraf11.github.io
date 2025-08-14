@@ -22,6 +22,8 @@ Microbiologist with a keen interest in microbial genomics and antimicrobial resi
   - Antimicrobial resistance.
   - Microbiology (Bacteriology).
 
+
+you can download my cv from [here](files/paper1.pdf)
 <!--
 ## Research Interests
   - Microbiology
