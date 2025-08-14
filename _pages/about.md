@@ -31,12 +31,11 @@ Egypt – Japan University of Science and Technology
 and its Derived Compounds on Antibiotic Resistant Bacteria”
 
 •	M.Sc. – Biotechnology                                                                                                                                June 2023
-
-Egypt – Japan University of Science and Technology
+<br> - Egypt – Japan University of Science and Technology
 -	Thesis Title: “Enhanced Aromatic Polycyclic Hydrocarbons Biodegradation Process by Microbial Biofilm Consortium Development”
 
 •	B.Sc. – Biological Sciences  July 2017
-Faculty of Science, Sohag University
+<br> - Faculty of Science, Sohag University
 
 -->
 
