@@ -17,10 +17,17 @@ Currently I'm a Ph.D. Scholar at Egypt-Japan University of Science and Technolog
 Microbiologist with a keen interest in microbial genomics and antimicrobial resistance, currently developing skills in Whole Genome Sequencing data analysis, and microbial comparative genomics. Passionate about using R for data analysis and visualization with a strong background in Biostatistics.
 
 ## Research Interests
+  - Microbial genomics.
+  - Whole-genome sequencing data analysis.
+  - Antimicrobial resistance.
+  - Microbiology.
+<!--
+## Research Interests
   - Microbiology
   - Microbial Genomics
   - Molecular Biology
   - Bioinformatics
+-->
 
 <--
 ## Education
