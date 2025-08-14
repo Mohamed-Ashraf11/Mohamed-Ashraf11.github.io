@@ -21,6 +21,7 @@ Microbiologist with a keen interest in microbial genomics and antimicrobial resi
   - Whole-genome sequencing data analysis.
   - Antimicrobial resistance.
   - Microbiology (Bacteriology).
+
 <!--
 ## Research Interests
   - Microbiology
