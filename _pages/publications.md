@@ -11,7 +11,7 @@ Stay tuned for upcoming publications! This space will soon showcase my latest ar
 
 In the meantime, feel free to explore the rest of my portfolio.
 -->
-#### Manuscripts In Preparation
+### Manuscripts In Preparation
 - _**Mohamed Ashraf**_, Hesham Soliman, Amr Nassrallah. In Silico Comparative Genomics and Antimicrobial Resistance Profiling of Egyptian _Pseudomonas aeruginosa_ Clinical Isolates Using Whole-Genome Sequencing. (Manuscript under submission).
 
 - _**Mohamed Ashraf**_, Ahmed Labena, Aly E. Abo-Amer, Mohamed Ghazy, Ahmed Abdel-Mawgood. Development and Evaluation of Biofilm and Bacterial Consortia on the Biodegradation of Polycyclic Aromatic Hydrocarbons. (Manuscript under submission).
